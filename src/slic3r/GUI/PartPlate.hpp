@@ -32,7 +32,7 @@ typedef class GLUquadric GLUquadricObject;
 #define PLATE_CURRENT_IDX   -1
 #define PLATE_ALL_IDX       -2
 
-#define MAX_PLATE_COUNT     36
+#define MAX_PLATE_COUNT     360
 
 inline int compute_colum_count(int count)
 {
